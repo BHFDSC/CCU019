@@ -1,4 +1,4 @@
-# Identification and personalised risk prediction for severe COVID19 in patients with rare disorders impacting cardiovascular health
+# Identification and personalised risk prediction for severe COVID-19 in patients with rare disorders impacting cardiovascular health
 
 ## Project description
 
