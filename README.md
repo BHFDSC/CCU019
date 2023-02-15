@@ -8,6 +8,12 @@ However, the majority of those living with rare diseases – around 5.8% of the 
 
 In this project, we aim to tackle these challenges by bringing together a comprehensive set of knowledge about rare diseases, and applying the most up to date data science technologies to use such knowledge and resources on CVD-COVID-UK datasets. In this way, we hope to develop a more accurate identification system for people living with rare diseases who are clinically vulnerable. We will also provide the much needed information on the risk of severe COVID-19 in people with rare diseases, hopefully leading to an improvement in their care by providing evidence on treatments that may work better for them.
 
+## Sub-projects
+
+The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
+
+> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK Approvals & Oversight Board (Project ID: CCU019).
+This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU019).
