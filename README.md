@@ -12,8 +12,9 @@ In this project, we aim to tackle these challenges by bringing together a compre
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+- __CCU019_01: A nationwide study of 331 rare diseases among 58 million individuals: prevalence, demographics and COVID-19 outcomes__
+  - Link to follow when publication is accepted.
+  - Code for this project is avilable in the `code` folder.
 
 ## Project approval
-
 This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU019).
