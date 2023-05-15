@@ -2,6 +2,8 @@ Analysis and curation code related to the analysis conducted for this project us
 
 ## Within [Databricks in the Data Access Environment (DAE)](https://digital.nhs.uk/services/data-access-environment-dae/user-guides/using-databricks-in-the-data-access-environment)  
 
+* `00_orphanet_rd_selection`  
+	* See `readme` for description
 * `01_identify_rare_disease_patients`  
     * `CCU019_00_helper_functions.py`  
     * `CCU019_01_create_input_tables.py`  
