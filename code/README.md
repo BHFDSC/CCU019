@@ -14,7 +14,14 @@ Analysis and curation code related to the analysis conducted for this project us
     * `CCU019_15_paper_rare_disease_demographics.py`  
     * `CCU019_16_paper_pop_demographics.py`  
 * `03_analysis_databricks`  
-    * `...`
+    * `CCU019_01_Covid_Survival_Cohort.py`
+    * `CCU019_02_Covid_Survival_Events.py`
+    * `CCU019_03_Covid_Survival_RD-Matching_exact.py`
+    * `CCU019_04_Covid_Survival_Analysis_exact.py`
+    * `CCU019_05_Covid_Survival_Visualization.py`
+    * `CCU019_07_Covid_Survival_Analysis_disease_group.py`
+    * `CCU019_08_Covid_Survival_Visualization_group.py`
+    * `CCU019_HZ_Covid_Survival_Config.py`	
 
 ## Within [RStudio in the DAE](https://digital.nhs.uk/services/data-access-environment-dae/user-guides/using-rstudio-in-the-data-access-environment)  
 
