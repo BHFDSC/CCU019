@@ -16,7 +16,7 @@ We are matched with a data analyst from the department of health and social care
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-* [A nationwide study of 331 rare diseases among 58 million individuals: prevalence, demographics and COVID-19 outcomes](https://github.com/BHFDSC/CCU019_01)
+* [CCU019_01: Prevalence and demographics of 331 rare diseases and associated COVID-19-related mortality among 58 million individuals: a nationwide retrospective observational study](https://github.com/BHFDSC/CCU019_01)
 
 ## Project approval
 This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU019).
